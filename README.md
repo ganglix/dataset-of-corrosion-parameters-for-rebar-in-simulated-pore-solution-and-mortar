@@ -11,7 +11,6 @@ The dataset encompasses a range of conditions to simulate different environmenta
 Chloride Levels: Includes multiple levels of chloride contamination to assess its effect on rebar corrosion.
 Carbonation States: Considers different carbonation states to understand their influence on the corrosion process.
 Corrosion Parameters: Focuses on key parameters like corrosion potential (E_corr), corrosion current density (i_corr), anodic Tafel slope (β_a), and cathodic Tafel slope (β_c).
-Each parameter has been meticulously measured to ensure a thorough understanding of corrosion dynamics in both simulated pore solutions and mortar environments.
 
 Associated Publication
 
